@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to MHE  👋</h1>
+<h1 align="center">WELCOME TO NTN HOTEL SUPLY  👋</h1>
 
 <h2>Company Overview</h2>
 <p>MHE is a <b>Hotel Equipment selling platform</b>. The currently available buying target several types of items category. The goal of this project Studying React js.</p>
